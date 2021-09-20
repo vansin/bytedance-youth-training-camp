@@ -5,3 +5,5 @@
 ```shell
 docker run --name mongo -d mongo
 ```
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210920172818.png)
