@@ -25,7 +25,7 @@ const spawn = async (...args) => {
 module.exports = async name => {
     // 打印欢迎画面
     clear()
-    const data = await figlet('KKB Welcome')
+    const data = await figlet('vansin Welcome')
     log(data)
     // 创建项目
     log(`创建项目:` + name)
