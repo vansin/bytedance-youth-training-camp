@@ -19,6 +19,6 @@ program.command('init <name>')
 //         .action(require('../lib/init'))
 
 
-// program.parse(process.argv)
+program.parse(process.argv)
 
 // console.log(process.argv)
