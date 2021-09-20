@@ -14,7 +14,7 @@ const restful = require('./framework/router')
 app.use(restful)
 
 
-const port = 3000
+const port = 3002
 app.listen(port, () => {
     console.log(`app started at port ${port}`)
 })
