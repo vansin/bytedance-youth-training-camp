@@ -5,3 +5,7 @@
 ```shell
 npm link
 ```
+
+```shell
+npm i commander download-git-repo ora handlebars figlet clear chalk open -s
+```
