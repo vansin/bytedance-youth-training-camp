@@ -1,3 +1,3 @@
-#!/home/vansin/.nvm/versions/node/v14.17.6/bin/node
+#!/usr/bin/env node
 
 console.log('ssh')
