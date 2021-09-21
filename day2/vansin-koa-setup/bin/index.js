@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import fs from "fs";
+import execa from "execa";
 import path from 'path'
 import chalk from 'chalk'
 import createIndexTemplate from "./createIndexTemplate.js";
@@ -26,7 +27,12 @@ fs.writeFileSync(
   createPackageTemplate(config)
 );
 
-
+// 4. 安装依赖
+console.log(chalk.blue(`安装依赖`))
+execa("yarn", {
+  cwd: getRootPath(),
+  stdio: [2, 2, 2],
+});
 
 function getRootPath() {
   return path.resolve(process.cwd(), config.packageName)
