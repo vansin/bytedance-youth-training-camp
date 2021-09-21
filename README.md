@@ -16,6 +16,9 @@ const {promisify} = require('util')
 
 ## Day2 
 
+
+[webpack学习资料](https://github.com/gwuhaolin/dive-into-webpack)
+
 崔效瑞老师
 
 - setup koa的cli工具
