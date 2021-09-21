@@ -1,0 +1,1 @@
+import import foo from './foo';
