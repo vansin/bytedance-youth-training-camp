@@ -18,3 +18,9 @@ mini-webpack
 ## 插件
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210921121554.png)
+
+
+
+## 任务
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210921134622.png)
