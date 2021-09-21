@@ -1,0 +1,20 @@
+{
+  "name": "04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn lint"
+    }
+  },
+  "scripts": {
+    "lint": "eslint ./*.js"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0"
+  },
+  "devDependencies": {
+    "husky": "^7.0.2"
+  }
+}
