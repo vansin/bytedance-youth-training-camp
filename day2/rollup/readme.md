@@ -7,3 +7,15 @@
 require只有runtime的时候才支持
 
 依赖图
+
+## webpack vs rollup
+
+webpack开发应用
+
+rollup用于造轮子
+
+原理->应用场景
+
+
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210921144509.png)
