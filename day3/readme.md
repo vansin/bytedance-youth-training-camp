@@ -1,7 +1,5 @@
 # day3 中后台体系
 
-## 
-
 ## 中后台系统业务的特点
 
 - 工作量大、页面多
@@ -29,3 +27,10 @@
 ## 中后台体系
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210922094522.png)
+
+
+## 组件体系的设计
+
+https://www.w3.org/TR/wai-aria-1.2/#roles_categorization
+
+https://www.processon.com/view/link/614ad124f346fb69b165a95f#map
