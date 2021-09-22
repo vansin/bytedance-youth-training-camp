@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import antd_svg from './antd.svg';
-import { DatePicker, Menu, Button, Row, Col, Input } from 'antd';
+import { DatePicker, Menu, Button, Row, Col,Input} from 'antd';
 import './App.css';
 import 'antd/dist/antd.css'; // or 'antd/dist/antd.less'
 import {
@@ -56,10 +56,16 @@ function App() {
           <div id="biglog" align="center">
             <img  alt="antd_svg" src={antd_svg}></img>
           </div>
-        <Row>
 
-          
-        </Row>
+
+        <div align="center">
+            <Button type="primary">Primary Button</Button>
+
+            
+            <Button>Default Button</Button>
+        </div>
+
+        
         
     </div>
   );
